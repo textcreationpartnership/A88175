@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Love's advocate, or Certain arguments tendred to the serious consideration of all that truly fear God, either in Parliament or Army, concerning M. Christopher Love minister, now a condemned prisoner in the Tower, for the utter repealing, or at least the moderating that sad sentence under which he now lyeth. With clear satisfaction to all contrary scruples to unbyassed spirits. / By a faithfull friend to the Parliament, one who never yet declined their cause to the right or left, but hath continued in their service from the beginning of their troubles to this very day.</title>
+            <author>G. L.</author>
+         </titleStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88175</idno><idno type="EEBO-CITATION">99865783</idno>
+  <idno type="VID">118034</idno>
+  <idno type="EEBO-PROQUEST">2248499860</idno>
+  
+            <idno type="STC">Wing L21</idno>
+            <idno type="STC">Thomason E640_11</idno>
+            <idno type="STC">ESTC R206667</idno>
+            <idno type="PROQUEST">99865783</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865783e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118034)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E640[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Love's advocate, or Certain arguments tendred to the serious consideration of all that truly fear God, either in Parliament or Army, concerning M. Christopher Love minister, now a condemned prisoner in the Tower, for the utter repealing, or at least the moderating that sad sentence under which he now lyeth. With clear satisfaction to all contrary scruples to unbyassed spirits. / By a faithfull friend to the Parliament, one who never yet declined their cause to the right or left, but hath continued in their service from the beginning of their troubles to this very day.</title>
+                  <author>G. L.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Moxon,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p.[4]: G.L.</note>
+                  <note>Annotation on Thomason copy: "Aug. 15:.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Love, Christopher, 1618-1651.</term>
+               <term type="topical_term">Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118034:1"/>
+            <p>
+               <hi>Loves Advocate,</hi> OR <hi>Certain Arguments tendred to the serious Consideration of all that truly fear God, either in Parliament or Army, concerning M.</hi> Chri<g ref="char:EOLhyphen"/>stopher Love <hi>Minister, now a condemned Prisoner in the Tower, for the utter repealing, or at least the moderating that sad sentence under which he now lyeth.</hi>
+            </p>
+            <p>
+               <hi>With clear satisfaction to all contrary Scru<g ref="char:EOLhyphen"/>ples to unbyasled Spirits.</hi>
+            </p>
+            <p>
+               <hi>By a faithfull friend to the Parliament, one who never yet declined their cause to the right or left, but hath con<g ref="char:EOLhyphen"/>tinued in their service from the beginning of their troubles to this very day.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Matth.</hi> 5.7.</bibl>
+               <p>Blessed are the Merciful: for they shall obtain mercy.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Isa.</hi> 16.5.</bibl>
+               <p>In mercy shall the Throne be established.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Iam.</hi> 2 13.</bibl>
+               <p>For he shall have Judgement without mercy that hath shewed no mercy, and mercy rejoyceth against Judgement.</p>
+            </q>
+            <q>
+               <bibl>1 <hi>Pet.</hi> 3.8.</bibl>
+               <p>Finally, be ye all of one mind, having compassion one of a<g ref="char:EOLhyphen"/>nother, love as bretheren, be pitiful, be courteous.</p>
+            </q>
+            <q>
+               <bibl>1 <hi>King.</hi> 2. 26.</bibl>
+               <p>Then the King said to <hi>Abiathar</hi> the Priest go to <hi>Ana<g ref="char:EOLhyphen"/>thoth,</hi> unto thine own feilds for thou art worthy of death, but I will not this day kill thee, because thou barest the arke of the Lord God before David my father, and because thou hast suffred in all wherein my father hath bin afflicted.</p>
+            </q>
+            <p>LONDON, <hi>Printed by</hi> James Moxon, 1651.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118034:2"/>
+            <pb facs="tcp:118034:2"/>
+            <head>
+               <hi>To the Supreme Authority of</hi> England, <hi>the Parliament assembled; Grace, Mercy, and Peace.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough the ensuing Arguments may be use<g ref="char:EOLhyphen"/>full to all, yet my aime is principally to satisfie you, who by the unspeak<g ref="char:EOLhyphen"/>able Providence and goodness of God to this Common-wealth, are become its Protectors, and in whose breast only under God it lyeth either to save or to destroy; Far be it from me to open my mouth in the least to justifie the practise of the party for whom I make bold to plead, but utterly abominate the very thoughts of such horrid and sinful as<g ref="char:EOLhyphen"/>sociations; but considering it will both consist with, and conduce to the glory of God, the peace of the Church, the honor and safety of this Commonweal, I am
+<pb facs="tcp:118034:3"/> encorag'd, not in the least doubting, but as ye are in the place of God, and may not improperly be called gods, if it ap<g ref="char:EOLhyphen"/>pear to you that the fore-mentioned ends may be attained, you desire to be like that God who delights in mercy, to which purpose I have undertaken to improve my poor talent: And although the Application of so many of your faithful friends have yet procured no<g ref="char:EOLhyphen"/>thing but a short Reprieve, which might discourage, yet knowing that the Lord can work without, nay against means when his time is come, can do what he pleases by the most contempti<g ref="char:EOLhyphen"/>ble instrument; and that he who hath the hearts of all Magistrates in his hand, can turn them as the rivers, cau<g ref="char:EOLhyphen"/>ses me to cast the care upon him, who is able to bring it to pass, which is the earnest prayer of</p>
+            <closer>
+               <signed>
+                  <hi>The unworthyest and meanest of all your Servants,</hi> G. L.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:118034:3"/>
+            <head>Loves Advocate. <hi>To all that love Peace and Truth.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I consider what great advantage the common enemies of this Com<g ref="char:EOLhyphen"/>mon-wealth have reaped by the un<g ref="char:EOLhyphen"/>natural and unchristian contention of those who are no doubt many of them precious in the account of God; to wit, the Presbyterian and Independent parties, in which lies our greatest unhappiness; and likewise considering how de<g ref="char:EOLhyphen"/>structive this designe of M. <hi>Love</hi> and his Associates might have proved, had not the Lord broke the net of their de<g ref="char:EOLhyphen"/>vice, by which means (through mercy) a wide dore of re<g ref="char:EOLhyphen"/>conciliation is set open; I could not but break silence, hoping hereby not only to convince the discontented offending par<g ref="char:EOLhyphen"/>ty of his error, but to obtain, as a right understanding be<g ref="char:EOLhyphen"/>tween the dissenting Brethren, so also (by God's blessing) mercy to the condemned party; desiring to effect both.</p>
+            <p>Therefore before I begin to plead for M. <hi>Love,</hi> or any of his Associates, I would gladly know what peace or se<g ref="char:EOLhyphen"/>curity he or they could promise to themselves in a designe of this nature:</p>
+            <list>
+               <item>1. Either in respect of God. Or,</item>
+               <item>2. In respect of the Church of God. Or,</item>
+               <pb n="2" facs="tcp:118034:4"/>
+               <item> 3. In respect of the Nation. Or,</item>
+               <item>4. In respect of themselves.</item>
+            </list>
+            <p n="1">1. In respect of God. Could it be possible to enter into the heart of M. <hi>Love,</hi> that the Lord who had given so ma<g ref="char:EOLhyphen"/>ny signals of his singular care of this Common-wealth, and those engaged in their Cause, would ever look with a fa<g ref="char:EOLhyphen"/>vourable aspect upon the arch enemies of him and his people?</p>
+            <p>Could any man perswade men in their right senses, that M. <hi>Love,</hi> (a man holy, godly publikely and eminently enga<g ref="char:EOLhyphen"/>ged for Church and State) should side with a generation of men, whose ungodly and debauched conversations carries inevitable ruine in their very fore head?</p>
+            <p>Could M. <hi>Love</hi> find in his heart to associate with the Scottish King, and those old Malignant Popish English Emissaries, <hi>Jermyn, Percy, &amp;c?</hi> and must these be now his Factors that formerly were Agents for him who M. <hi>Love</hi> most eminently opposed and whose Principles are as oppo<g ref="char:EOLhyphen"/>site as light to darkness? Could he expect any better re<g ref="char:EOLhyphen"/>ward then <hi>Jehoshaphat?</hi> 2 Chron. 19. 2. <hi>Wouldst thou help the wicked, and love them that hate the Lord? There<g ref="char:EOLhyphen"/>fore for this thing the wrath of the Lord is upon thee.</hi> Hath not the Lord said else-where, <hi>I will destroy both the house and the help of the evil doer?</hi> Isa. 31. 2. Therefore saith the Prophet in vers. 1. <hi>Wo to them that go down to Egypt for help.</hi>
+            </p>
+            <p>And although I earnestly desire those considerations that moved the Lord to show mercy to <hi>Jehoshaphat,</hi> 2 Chr. 19. 3. for that good things were found in him, and that he had been instrumental to destroy the groves; as also that that caused <hi>Abiathar</hi> notwithstanding his complyance with the Usurper <hi>Adonijah,</hi> to find favour with <hi>Salomon,</hi> to wit, Because <hi>he bare the Ark of the Lord before David his fa<g ref="char:EOLhyphen"/>ther,</hi> may also prevail for him, now in time of his distress, yet I earnestly desire to convince his heart of the unspeak<g ref="char:EOLhyphen"/>able mischief wrapt up in this designe.</p>
+            <p n="2">
+               <pb n="3" facs="tcp:118034:4"/> 2. In regard of the Church.</p>
+            <p>Could M. <hi>Love,</hi> or any rational man in the world, expect such to promote the work of Reformation, who are the archest enemies of it? Had the Designe prospered, had not all the expense of Treasure and Blood for these dozen yeers together, to propagate the Gospel, to promote the cause of God, not only been lost, but the Common-wealth turned to a Chaos or Acheldama? Was it possible those Blackmoors with whom he joyn'd could change their skins? Or would those old Birds (nay Beasts) of prey have ceased to devour when their jaws were unmuzzell'd? Certainly had they prevailed, their gums would now have been harder sure, then their teeth before knockt out.</p>
+            <p>Were they enemies to all godly men formerly, and would they now love any godly man? Certainly we may say now as the Lord said long since; The days of England's Visita<g ref="char:EOLhyphen"/>tion are come, yea the <hi>days of Recompence,</hi> England as Israel shall know it; <hi>The Prophet is a fool, the Spiritual man is mad,</hi> otherwise it were not possible. <hi>Hos.</hi> 9. 7.</p>
+            <p>When Popish and Malignant Cavaliers become reform<g ref="char:EOLhyphen"/>ers of abuses in Protestant Churches, its like to be well done. If the Divel turn Divine, we shall have good Doctrine<hi>:</hi> good Gospel! and if Lucifer turn Lawyer, we shall all have Justice!</p>
+            <p>And withal, let M. <hi>Love</hi> consider, and bewail what a general odium they have brought upon the very govern<g ref="char:EOLhyphen"/>ment of Presbyterie; Certainly although there are many godly and moderate men that are hearty to that govern<g ref="char:EOLhyphen"/>ment, yet they are as faithful to the Common-wealth as any other, and who as much abominate this ungodly stratagem, and yet by this very undertaking, are laid under a thick cloud, if the wisdom of the Parliament prevent not; the Designe carried on in the name of the Presbyterian Party, when many thousands nay the major part, abhor the thoughts of any such compliance.</p>
+            <p n="3">3. In respect of the Nation.</p>
+            <pb n="4" facs="tcp:118034:5"/>
+            <p> Were not these principal Instruments to promote the troubles of the Nation? Were not <hi>Digby, Jermyn, Piercy,</hi> this Scots king confederates with his Father to destroy all? and can we expect better if they should prevail? Must not then the well-affected be well paid for all their Treasure and Blood spent and spilt to defend the Common-wealth from those Vipers? and must not we then lay down both life and estate to pay the arrears of their rage, and engage<g ref="char:EOLhyphen"/>ments of those Cut-throats?</p>
+            <p n="4">4. For themselves.</p>
+            <p>What peace or personal security could M. <hi>Love</hi> or any godly man whatsoever expect from such as are utter ene<g ref="char:EOLhyphen"/>mies to godliness, nay against all such as have sided with the Parliament against their old Correspondencies and In<g ref="char:EOLhyphen"/>terests? Could M. <hi>Love</hi> plead (had they prevailed) that he had now done them so much service in promoting this de<g ref="char:EOLhyphen"/>signe, as that the business of <hi>Uxbridge,</hi> and all his former assistance to this State should be forgot? I fear he would be choked first: Certainly M. <hi>Love</hi> must have been one of the first Presbyterian favourites they would have sacrificed to their lusts. But to pass this, for that I would not make the Purge so strong, that the Cordial should not operate, neither lay more weight upon him that's overladen; I know M. <hi>Love</hi> hath somthing to say, which I could as easily answer; but for that my purpose is to become his Advocate, and the rest of the godly that have been mis-led by their own de<g ref="char:EOLhyphen"/>ceived hearts; I humbly pray the Lord to give them hearts of repentance, to give glory to God by an ingenious ac<g ref="char:EOLhyphen"/>knowledgement, and for time to come (if the Lord vouch<g ref="char:EOLhyphen"/>safe to encline the hearts of the Parliament to grant them their lives for a prey) they may become again Instrumental to promote the cause of Church and Common-wealth.</p>
+            <p>To which purpose I humbly offer to consideration; how<g ref="char:EOLhyphen"/>ever his sentence is most just.</p>
+            <p n="1">1. That as all men acknowledge, so I verily believe him to be a man precious in God's account; and for that he is
+<pb n="5" facs="tcp:118034:5"/> so, I humbly offer this, that difference may be put be<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> those that are common enemies to God and his Cause and People, and such who are otherwise truly godly, and that they may not fare-worse then the arch enemies of this Com<g ref="char:EOLhyphen"/>mon-wealth. How many Grandees of all our unhappy troubles, that have been actually in Arms against the Parli<g ref="char:EOLhyphen"/>ament, that have with their own hands shed the blood of many precious Instruments of State, have been spared, and found mercy upon their laying down of Arms, and promise not again to engage against the Parliament? and shall these be in worse capacity whose designe never came to maturity, and who are of the same faith, who will not only promise never to engage against but for future promote the com<g ref="char:EOLhyphen"/>mon Cause; in whose word there is more trust then in a thousand oaths of <hi>Rupert</hi>'s, <hi>Maurice</hi>'s, or any their con<g ref="char:EOLhyphen"/>federates? As the Lord puts difference between an Egypti<g ref="char:EOLhyphen"/>an and an Israelite, and <hi>Salomon</hi> made a difference between <hi>Joab</hi> and <hi>Abiathar,</hi> 1 <hi>Kin.</hi> 2. 26. so ought we also, <hi>Exod.</hi> 11. 7. <hi>Deut.</hi> 32.5. for <hi>their spot is not like the spot of his children;</hi> nor the spot of God's children like theirs.</p>
+            <p n="2">2. However M. <hi>Love</hi> and the rest were drawn in to that desperate designe, and condemned for it as Traytors, yet I believe he had no treasonable intent; it's true I believe he had correspondence with the Scottish King that how is when he was Prince, and with <hi>Massey,</hi> the Presbyterian Ministry, and others in Scotland; his intent was, to take off the Prince from that popish hispanioliz'd faction, <hi>Dighy, Cottington,</hi> &amp;c. among whom he was, that had done so much mischief to the Nation, to become a Covenanter; that thereby he might be instrumental to promote the govern<g ref="char:EOLhyphen"/>ment of the Church, to which he was so strongly devoted, that so (according to the Covenant) there might be an uni<g ref="char:EOLhyphen"/>formity in both Nations; and although the instruments were such from whom I wonder how he could expect such ends, yet he aimed to effect that which they had least thought of, and so became utterly obnoxious, although act<g ref="char:EOLhyphen"/>ing upon religious principles.</p>
+            <p n="3">
+               <pb n="6" facs="tcp:118034:6"/> 3. Consider how instrumental he hath for merly been to promote the cause of this Parliament, and let that not be forgot to be put into the scale of this late dis-service; and truly, impartially considered, it may be a means to poise the business; He was actually, visibly, and publikely engaged for the Parliament, he hath only privately had some com<g ref="char:EOLhyphen"/>plyance with their enemies in a corner, in a business never perfected or effected.</p>
+            <p n="4">4. Consider he had not engaged at all, had his Consci<g ref="char:EOLhyphen"/>ence been so well satisfied as now it is concerning the law<g ref="char:EOLhyphen"/>fulness of the present Government; and truly at that time when first set up, when the House was garbled by an unac<g ref="char:EOLhyphen"/>custom'd way, that England never before saw, it stumbled many honest godly Christians and faithful friends of yours; however some have been better able to satisfie themselves then others have; and I believe that that is so disputable in this age, to wit the present government will in succeed<g ref="char:EOLhyphen"/>ing ages be out of question; mean time so long as those that are not so hearty to it, or are not yet perswaded, are quiet, let as free construction as may be made of mens words and actions, who are otherwise truly godly, and in time may see their own mistake.</p>
+            <p n="5">5. Consider who they are that intercede for him, and you will find them the most faithful knowing Christian friends you have; and therefore think not they would desire any thing of you that may derogate either from your digni<g ref="char:EOLhyphen"/>ty or common safety; those who do daily pray for you, and as much as in them lies, propagate the common cause to the utmost both in person and purse.</p>
+            <p n="6">6. By shewing mercy to him, you will utterly disappoint the hopes and expectations of your as well as his adversa<g ref="char:EOLhyphen"/>ries; for indeed many are his utter enemies for your sakes, who you gratifie exceedingly if you suffer him to dy, and who gape-greedily after his blood, and would as willingly have yours also if opportunity served.</p>
+            <p n="7">7. Frustrate not the prayers of many of your dearest
+<pb n="7" facs="tcp:118034:6"/> friends, who have sought the Lord in his behalf, and whose hearts are yet let out for him, which is a ground of further hope.</p>
+            <p n="8">8. Consider Although he be an able Minister, yet he's but a weak Statesman; I could wish he had kept more close to his Calling in preaching Jesus Christ <hi>&amp;c.</hi> and med<g ref="char:EOLhyphen"/>led less with State matters; therefore look upon this of<g ref="char:EOLhyphen"/>fence as a fruit of his ignorance in Civil affairs.</p>
+            <p n="9">9. He is a publike instrument of the Church, one doubt<g ref="char:EOLhyphen"/>less that hath converted many souls to Jesus Christ; one that by his life may bring many out of the ways of death, and one that if he suffer, doubtless many poor souls must suf<g ref="char:EOLhyphen"/>fer with him; this Argument prevailed with <hi>Salomon</hi> to spare <hi>Abiathar</hi> the Priest let it prevail with you.</p>
+            <p n="10">10. You are the Parties offended who are his Judges, and therefore for you to show mercy in your own cause is most honourable.</p>
+            <p n="11">11. The effects of that favour already granted him are such, as that I hope will plead for a further act of grace; For by this means the Presbyterian and Independent Mini<g ref="char:EOLhyphen"/>stry petitioning together, have ever since held correspon<g ref="char:EOLhyphen"/>dency, and do weekly meet to seek God for a happy recon<g ref="char:EOLhyphen"/>ciliation of the difference between them, which is the great<g ref="char:EOLhyphen"/>est advantage the enemy hath upon us; and truly I under<g ref="char:EOLhyphen"/>stand there is great hope of making up that sad breach, even by this means; Certainly he that can bring light out of darkness, nay heaven out of hell, can out of this eater bring meat, out of this evil bring much good both to Church and State; and I verily believe a more ready expe<g ref="char:EOLhyphen"/>dient to gain the hearts of all the Presbyterian godly to you; and to make them all serviceable, is to be gracious in this particular: Ingenious spirits are wrought more upon by cords of love, then by thousand stripes.</p>
+            <p n="12">12. Consider you are in the place of God, and as not improperly called gods, labour to be like that God who is very often in Scripture called the God of mercy, but never
+<pb n="8" facs="tcp:118034:7"/> the God of Justice; it was the honour of the Kings of Israel that they were merciful, and it will be yours also, es<g ref="char:EOLhyphen"/>pecially to such who you are perswaded (however by a misguided principle driven aside) are precious in God's ac<g ref="char:EOLhyphen"/>count, faithful to his cause and people; the Lord in wrath remembers mercy, his mercy endures for ever, his mercy is above all his works; it's his mercy that we are not all con<g ref="char:EOLhyphen"/>sumed, because his compassions fail not; the Lord encline your hearts to be merciful as your heavenly Father is mer<g ref="char:EOLhyphen"/>ciful, <hi>Luke</hi> 3. 36.</p>
+            <p n="13">13. Consider cursed <hi>Shimei</hi> had the favour to build him a house, and live in it, and had not he broke his conditions made with the King had enjoyned, it had not been de<g ref="char:EOLhyphen"/>stroyed; and shall a Saint fare worse then a persecutor of the Saints? <hi>Abiathar</hi> one of <hi>Adoni<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ah</hi>'s consederates in his usurpation, yet for that he was a Priest, and bare the Ark before King <hi>David,</hi> was afflicted with him, <hi>&amp;c.</hi> he had liberty, notwithstanding he deserved death.</p>
+            <p n="14">14. Remember how kindly <hi>Joseph</hi> dealt with his but<g ref="char:EOLhyphen"/>cherly Brethren, who had cause and power enough to use them as they were, and his heart was willing enough to fly out upon them, but the fear of God curbed his revengeful disposition, Consider how kindly <hi>David</hi> dealt with <hi>Nabal,</hi> when God gave the kingdom into his hand, it never re<g ref="char:EOLhyphen"/>pented him that he spared the churl his blood, although the Lord met with him.</p>
+            <p>Lastly, Consider what may be the cause the godly Mini<g ref="char:EOLhyphen"/>stry, or any part of them should decline you. Certainly there is somthing in it, they have not used it; The dumb Ass reproved the Prophet even by this rule, it was not his custome to be unserviceable, there was a cause; and surely somthing is now the matter, give me leave to tell you in their names what I think it to be.</p>
+            <p n="1">1. Your approving, and after long debate with the As<g ref="char:EOLhyphen"/>sembly about Church government, setling that which you take little care to protect or countenance,</p>
+            <p n="2">
+               <pb n="9" facs="tcp:118034:7"/> 2. Suffering Errors, Heresies, and most horrid blasphe<g ref="char:EOLhyphen"/>mies to go uncontroll'd, as it were <hi>cum privilegio,</hi> zealous to promote your own Interests, relations, and edicts, while God is blasphemed daylie to his face by a hellish genera<g ref="char:EOLhyphen"/>tion of wretched Ranters, &amp;c.</p>
+            <p n="3">3. Leaving them destitute of competent livelyhoods, inso<g ref="char:EOLhyphen"/>much that in many places they have nothing to live upon but the good will of such who have no will at all to that that's good.</p>
+            <p n="4">4. By their mistake about the Covenant, thinking and pleading many of them in positive terms for the King, when as that part of the Covenant that concerned him was meer<g ref="char:EOLhyphen"/>ly conditional and was broke by him in every branch there<g ref="char:EOLhyphen"/>of, and whose taking off was as judicial an act as any ever you since your first sitting accomplished.</p>
+            <p>I am not ignorant there are divers desire his dispatch, and their grounds are either</p>
+            <list>
+               <item>1. Prejudice against the government of Presbyterie. Or,</item>
+               <item>2. Ignorant of the small difference between Presbytery and Independency. Or,</item>
+               <item>3. Slighting the Independent by the Presbyterian party when in Power. Or,</item>
+               <item>4. Too much liberty given to such as despise all govern<g ref="char:EOLhyphen"/>ment. Or,</item>
+               <item>5. Because of his former zeal for Parliament, therefore is he become the very object of the rage and malice of all the Malignant and Royal party both in City and Countrey.</item>
+            </list>
+            <div type="objections">
+               <head>The Objections against him are not many.</head>
+               <div n="1" type="objection">
+                  <head>Object. 1. <hi>He hath been instrumental, and cause of much bloodshed.</hi>
+                  </head>
+                  <p>2. <hi>Impartial Justice ought to be administred.</hi>
+                  </p>
+                  <p>3. <hi>The souldier will be unsatisfied if he be spared.</hi>
+                  </p>
+                  <p>For the first, It's true, had the designe taken effect, it might have caused much bloodshed blessed be God it did not.</p>
+                  <p>2. He is not so instrumental that way as rendred; it's
+<pb n="10" facs="tcp:118034:8"/> true he was instrumental I'believe to unite the King and the Scot in one Covenant; but had not M. <hi>Love</hi> been, it had been effected by the Scots Commissioners themselves, and the Scots were in Arms long before the King came to them, or M. <hi>Love</hi> medled in the business.</p>
+                  <p>3. God that brings good out of evil, hath so ordered, that the blood that is spilt is the blood of his enemies, and very little else is shed, blessed be his name.</p>
+                  <p>4. Compare his former services with these present nego<g ref="char:EOLhyphen"/>tiations and they will (I am confident) overballance (I know, and so do all that know him, that he hath been as prevailing an instrument to promote the Parliaments ends, as most Ministers in England) and when they had most need of help: yea I doubt not but they now reap the benefit of his and many other godly Ministers prayers when they were in a low condition.</p>
+                  <p>5. However bloodshed might be in the head of the de<g ref="char:EOLhyphen"/>signe in those with whom he joyned, yet on his part it's ra<g ref="char:EOLhyphen"/>ther accidental then intentional; as he and those with whom he joyn'd were of different principles, so also were their ends.</p>
+               </div>
+               <div n="2" type="objection">
+                  <head>Object. 2. <hi>But Justice ought to be administred with<g ref="char:EOLhyphen"/>out respect of persons.</hi>
+                  </head>
+                  <p>
+                     <hi>Answ.</hi> Although justice ought to be so administred as <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot to respect persons, as to respect a rich man or a great man, and to punish a poor man their fault being both alike, yet respect ought to be had to the nature of the of<g ref="char:EOLhyphen"/>fence in reference to circumstance both of cause, the end, time, place, &amp;c. which may either aggravate or extenuate; as he that sins through ignorance, and he that sins of se<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> purpose differ; he that offends through a misguided opinion in matter of Church estate, and he that sets himself point blank against God, his cause and people; (although I ju<g ref="char:EOLhyphen"/>stifie neither) yet there is much difference between them.</p>
+                  <p>2. Justice appears in his Condemnation and sentence <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Parliament, notwithstanding so many serious solicitati<g ref="char:EOLhyphen"/>ons
+<pb n="11" facs="tcp:118034:8"/> of their known friends; so that if he be saved at last, he must needs acknowledge an act of meer mercy that his life is given him for a prey, which is no more then the archest Traytors or enemies of the State have by their friends so<g ref="char:EOLhyphen"/>licitation obtained: witness <hi>Goring</hi> &amp;c.</p>
+                  <p>3. If any error should be (if it be in shewing mercy) especially upon forementioned considerations, it will be no lefthanded error.</p>
+                  <p>5. Consider, <hi>Summum ju<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> est summum injuria;</hi> the ex<g ref="char:EOLhyphen"/>treamity of justice is the greatest injustice: as mercy with<g ref="char:EOLhyphen"/>out justice is the greatest cruelty, so justice without mercy is the greatest in justice in the world; therefore as mercy and justice do meet together in God, so he is the firest Judge in whom they are equally mixt.</p>
+                  <p>5. Doing justice in Scripture language, is not alwaies to be taken for the punishing of offenders, but for uprightness and just dealing in discharge of a good conscience void of offence toward God and man in the place where God placeth men.</p>
+               </div>
+               <div n="3" type="objection">
+                  <head>Object. 3. <hi>The Soldiery will be unsatisfied if he be spared.</hi>
+                  </head>
+                  <p>
+                     <hi>Answ.</hi> Soldiers for the most part are most severe, espe<g ref="char:EOLhyphen"/>cially such as have been so often accustomed to blood, har<g ref="char:EOLhyphen"/>dened and heightned thereby.</p>
+                  <p>2. Some there are in the Army, yea too many I fear, that care not if there were neither Minister nor Magistrate in England; and were it not for the piety and prudence of the Lord General and the Commanders neer to him, the Par<g ref="char:EOLhyphen"/>liament would quickly find the woful effects of it; that that made <hi>David</hi> unfit to build the house of the Lord, makes these also unfit to be Judges in case of life and death, other<g ref="char:EOLhyphen"/>wise (then as in Military affairs) subordinate to higher Powers.</p>
+                  <p>3. The Soldiery either are or ought to be your servants, and acquiesse in your Councels, actings, and conclusions; and so far from being your directors, that I question not
+<pb n="12" facs="tcp:118034:9"/> but they will sit down under your determinations; not only in this, but all other States affairs.</p>
+                  <p>Right Honourable, my humble motion in the behalf of M. <hi>Love,</hi> and those in like capacity, is, that if the Lord shall give them hearts to see and acknowledge their mis-treading, that, then they may not only enjoy the benefit of their liber<g ref="char:EOLhyphen"/>ty, by which they may become instrumental for common good, but also of your savour; if not, yet for that M. <hi>Love</hi> and some others have born the Ark of God before you and been afflicted with you in all your former afflictions, that they may receive the priviledge of <hi>Abiathar</hi> before menti<g ref="char:EOLhyphen"/>oned, 1 <hi>Kings</hi> 2. 26.</p>
+                  <p>Sure I am you employ many hundreds both in places of profit and trust, that never did you the least service, till their own advantage, and the small hope they had by effect<g ref="char:EOLhyphen"/>ing their ends invited them, who would upon the first oppor<g ref="char:EOLhyphen"/>tunity be ready to cut your throats, while many your faith<g ref="char:EOLhyphen"/>ful friends are neglected.</p>
+                  <p>And now most noble Senators, knowing that God hath given you knowledge and understanding to manage the most weighty affairs both of Church and State (especially in these times) which both have been and are in so great confusion; yet are you by Gods blessing terrible to your, forraign enemies, and honourable in the hearts of all that fear God: The Lord of his mercy incline your hearts (the premiss considered) to pitty this poor man that lies at your mercy, and grant you may never act any thing whereof you may have cause to repent, but may so sway the affaires both of Church and State, as God may have glory, in the establishment of Peace and Truth in all these united Ilands, to the comfort of all that fear God, and your own eternal honour.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118034:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
